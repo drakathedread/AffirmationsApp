@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Do daily affirmations work?</string>
+        <string name="affirmation2">I don\'t think so.</string>
+        <string name="affirmation3">Each day is a new opportunity to gain. Hopefully knowledge and not weight.</string>
+        <string name="affirmation4">Every challenge in my life is an opportunity to eat.</string>
+        <string name="affirmation5">I have so much to do still.</string>
+        <string name="affirmation6">Good things are always knocking first.</string>
+        <string name="affirmation7">New challenges await me at every turn.</string>
+        <string name="affirmation8">I have the courage to follow my dragon heart.</string>
+        <string name="affirmation9">Things will unfold at precisely the time you make them happen.</string>
+        <string name="affirmation10">I will be a present in all the moments of this day.</string>
+
+</resources>
